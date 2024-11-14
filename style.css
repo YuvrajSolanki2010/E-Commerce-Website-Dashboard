@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    height: 70px;
+}
+nav{
+    font-size: 30px;
+}
+#search{
+    height: 35px;
+    width: 400px;
+    margin-left: 3%;
+    border-radius: 5px;
+}
+select{
+    background-color: black;
+    color: white;
+    border: black;
+    font-size: 20px;
+}
+.nav{
+    text-decoration: none;
+    color: white;
+    margin-left: 1%;
+}
+#logo{
+    margin-left: 0;
+}
+#head2{
+    background-color: rgb(78, 76, 119);
+    margin-top: 2px;
+    height: 45px;
+}
+#primeselect{
+    background-color: rgb(78, 76, 119);
+    font-size: 17px;
+    margin-left: 1%;
+}
+#head2 a{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    margin-left: 1.9%;
+    padding-top: 5px;
+}
+#fresh{
+    padding-left: 0;
+}
+#mainimage{
+    margin-top: 45px;
+    height: 350px;
+    width: 1519px;
+}
+.container{
+    justify-content: center;
+    height: 800px;
+    width: 1500px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.box{
+    height: 400px;
+    width: 350px;
+}
+#box1{
+    background-image: url(image1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: static;
+}
+#box2{
+    background-image: url(image2.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+#box3{
+    background-image: url(image3.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+#box4{
+    background-image: url(image4.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+#box5{
+    background-image: url(image5.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: static;
+}
+#box6{
+    background-image: url(image6.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+#box7{
+    background-image: url(image7.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+#box8{
+    background-image: url(image8.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+#landimg1{
+    height: 350px;
+    width: 1519px;
+    margin-top: 30px;
+}
+#landimg2{
+    height: 350px;
+    width: 1519px;
+}
+#p1{
+    margin-top: 35px;
+    text-align: center;
+    font-size: 12px;
+}
+#signin{
+    background-color: rgb(228, 184, 39);
+    text-align: center;
+    margin-left: 43.8%;
+    height: 23px;
+    width: 190px;
+    color: black;
+    font-size: 10px;
+    border-radius: 5px;
+}
+#Ncustomer{
+    text-align: center;
+    font-size: 12px;
+}
+#Back{
+    text-align: center;
+    height: 30px;
+    background-color: rgb(50, 64, 90);
+    color: white;
+    margin-top: 50px;
+    padding-top: 15px;
+}
+#list{
+    height: 350px;
+    background-color: rgb(32, 43, 63);
+    display: flex;
+    padding-left: 10%;
+}
+#list1{
+    padding-top: 40px;
+    padding-left: 10%;
+    font-size: 15px;
+    list-style: none;
+}
+#list2{
+    padding-top: 40px;
+    padding-left: 10%;
+    font-size: 15px;
+    list-style: none;
+}
+#list3{
+    padding-top: 40px;
+    padding-left: 10%;
+    font-size: 15px;
+    list-style: none;
+}
+#list4{
+    padding-top: 40px;
+    padding-left: 10%;
+    font-size: 15px;
+    list-style: none;
+}
+li{
+    font-size: 15px;
+    line-height: 30px;
+    color: rgb(207, 204, 204);
+}
+ul{
+    line-height: 30px;
+    color: white;
+}
+#Amazonend{
+    height: 80px;
+    background-color: rgb(32, 43, 63);
+    margin-top: 0.6px;
+    padding-top: 35px;
+}
+#endlog{
+    text-decoration: none;
+    font-size: 30px;
+    color: orange;
+    margin-left: 38%;
+}
+#endlang{
+    margin-left: 5%;
+    font-size: 16px;
+    background-color: rgb(32, 43, 63);
+    color: white;
+    border: 2px solid grey;
+}
+#region{
+    text-decoration: none;
+    font-size: 18px;
+    background-color: rgb(32, 43, 63);
+    color: white;
+    border: 2px solid grey;
+}
+#end2{
+    height: 300px;
+    background-color: rgb(28, 29, 37);
+}
+#end2{
+    padding-top: 55px;
+    display: flex;
+    gap: 5%;
+}
+#end2 ul{
+    line-height: 20px;
+    font-size: 13px;
+}
+#end2 li{
+    line-height: 12px;
+    font-size: 10px;
+}
+#list5{
+    margin-left: 23%;
+    list-style: none;
+}
+#list6{
+    list-style: none;
+}
+#list7{
+    list-style: none;
+}
+#list8{
+    list-style: none;
+}
